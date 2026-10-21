@@ -1,0 +1,10 @@
+ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers
+built with gcc 16.2.0 (Rev6, Built by MSYS2 project)
+configuration: --prefix=/d/Dev/code/gap-gone-main/reProject/tools/ffmpeg-audio-build/install --target-os=mingw32 --arch=x86_64 --cc=gcc --cxx=g++ --pkg-config=pkgconf --pkg-config-flags=--static --disable-autodetect --disable-everything --disable-doc --disable-debug --disable-network --disable-avdevice --disable-swscale --disable-ffplay --disable-shared --enable-static --enable-small --enable-gpl --enable-ffmpeg --enable-ffprobe --enable-avcodec --enable-avformat --enable-avfilter --enable-swresample --enable-w32threads --enable-libmp3lame --enable-libvorbis --enable-libopus --enable-librubberband --enable-protocol='file,pipe' --enable-demuxer='wav,mp3,flac,mov,aac,ogg,aiff,asf,wv,ape,matroska,avi,mpegts,mpegps,mpegvideo,flv' --enable-muxer='wav,mp3,flac,ipod,adts,ogg,opus,aiff,asf,wv,pcm_f64le' --enable-decoder='pcm_u8,pcm_s8,pcm_s16le,pcm_s16be,pcm_s24le,pcm_s24be,pcm_s32le,pcm_s32be,pcm_f32le,pcm_f32be,pcm_f64le,pcm_f64be,pcm_alaw,pcm_mulaw,adpcm_ms,adpcm_ima_wav,mp3,mp3float,mp2,mp2float,flac,aac,aac_latm,alac,vorbis,opus,wmav1,wmav2,wmapro,wmalossless,wavpack,ape,ac3,eac3,dca' --enable-encoder='pcm_u8,pcm_s8,pcm_s16le,pcm_s16be,pcm_s24le,pcm_s24be,pcm_s32le,pcm_s32be,pcm_f32le,pcm_f64le,libmp3lame,flac,aac,alac,libvorbis,libopus,wmav2,wavpack' --enable-parser='mpegaudio,mpegvideo,aac,aac_latm,ac3,dca,flac,opus,vorbis' --enable-bsf='aac_adtstoasc,extract_extradata' --enable-filter='abuffer,abuffersink,aformat,anull,asplit,atrim,asetpts,concat,highpass,lowpass,rubberband,aresample' --extra-cflags='-Os -ffunction-sections' --extra-ldflags='-static -static-libgcc -static-libstdc++ -Wl,--gc-sections'
+libavutil      60.  8.100 / 60.  8.100
+libavcodec     62. 11.100 / 62. 11.100
+libavformat    62.  3.100 / 62.  3.100
+libavfilter    11.  4.100 / 11.  4.100
+libswresample   6.  1.100 /  6.  1.100
+
+Exiting with exit code 0

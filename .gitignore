@@ -1,0 +1,25 @@
+# Local runtime, release artifacts and media toolchain (repository root)
+/bin/
+/dist/
+/tools/
+/temp/
+/release-*/
+
+# Generated test output and embedded resources
+/tests/runs/
+/tests/*.exe
+/tests/*.log
+/resources/*.resources
+
+# Build and editor caches
+**/obj/
+**/bin/Debug/
+**/bin/Release/
+.vs/
+*.user
+*.suo
+*.tmp
+*.log
+*.zip
+Thumbs.db
+.DS_Store
